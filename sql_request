@@ -1,0 +1,1 @@
+select product.name, category.name from product, category
